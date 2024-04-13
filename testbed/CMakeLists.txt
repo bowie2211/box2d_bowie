@@ -69,6 +69,8 @@ set (TESTBED_SOURCE_FILES
 	tests/web.cpp
 	tests/wheel_joint.cpp
 	tests/wrecking_ball.cpp
+	tests/breakout_Test.cpp
+	tests/Entity.cpp
 	tests/breakout.cpp
 )
 
